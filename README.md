@@ -35,7 +35,7 @@ week 2
 * :white_check_mark: [other operators](https://github.com/colevanderswands/other-operators)  
 * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions)  
 * mon
-  * comp: sets & mapping, 
+  * comp: sets & mappings
   * expansions: w/ type conversions & comparisons
 * tue
   * comp: primitive operators
