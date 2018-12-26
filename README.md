@@ -62,7 +62,7 @@ week 3
 week 4
 * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) 
 * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-deisng) 
-* :white_check_mark: [if hemingway](https://github.com/colevanderswands/if-hemingway-wrote-js)  
+* :white_check_mark: [if hemingway](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 * mon
   * javascripting: cover it quickly together, will be practiced all week
   * sol des: analyze
