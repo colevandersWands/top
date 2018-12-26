@@ -16,5 +16,4 @@ week 3
 * :x: [strategy](https://github.com/colevanderswands/strategy)  
 
 week 4
-* :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting)  
-* :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design)  
+* :white_check_mark: [coding challenges](https://github.com/colevanderswands/coding-challenges)  
