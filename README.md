@@ -59,7 +59,7 @@ week 3
 * thu
   * strat: conditionals
 * fri
-  * iteration
+  * strat: iteration
 
 week 4
 * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) 
