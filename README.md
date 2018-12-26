@@ -28,6 +28,7 @@ week 1
 
 week 2 
 * :white_check_mark: [computation](https://github.com/colevanderswands/computation)  
+* :white_check_mark: [error handling](https://github.com/colevanderswands/error-handling)  
 * :white_check_mark: [other operators](https://github.com/colevanderswands/other-operators)  
 * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions)  
 * mon
@@ -37,6 +38,7 @@ week 2
   * comp: primitive operators
   * expansions: w/ all primitive operators
 * wed
+  * error handling
   * other operators
   * expansions: w/ other operators
 * thu
@@ -60,7 +62,7 @@ week 3
 week 4
 * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) 
 * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-deisng) 
-* :white_check_mark: [if hemingway](https://github.com/elewa-academy/if-hemingway-wrote-js)  
+* :white_check_mark: [if hemingway](https://github.com/colevanderswands/if-hemingway-wrote-js)  
 * mon
   * javascripting: cover it quickly together, will be practiced all week
   * sol des: analyze
