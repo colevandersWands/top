@@ -2,14 +2,17 @@
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
-* :x: [js nm 1](https://github.com/colevanderswands/js-nm-1)  
+* :x: [js nm](https://github.com/colevanderswands/js-nm)  (vars & assignment, block scope & control flow)
 
 week 1
-* :x: [js nm 1](https://github.com/colevanderswands/js-nm-1)  
+* :x: [js nm](https://github.com/colevanderswands/js-nm)  
+  * vars & assignment
+  * block scope & control flow
+  * expanding expressions
+  * functions
 * :white_check_mark: [programming](https://github.com/colevanderswands/programming)  
 
-week 2
-* :x: [js nm 2](https://github.com/colevanderswands/js-nm-2)  
+week 2 
 * :white_check_mark: [computation](https://github.com/colevanderswands/computation)  
 
 week 3
