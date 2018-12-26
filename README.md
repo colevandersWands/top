@@ -4,15 +4,11 @@ before class
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
 * :x: [js nm](https://github.com/colevanderswands/js-nm)  
   * vars & assignment, block scope & control flow
-  * click-and-drag, pytut
+  * click-and-drag & pytut only
   * saving off-line diagramming for in person
 
 week 1
 * :x: [js nm](https://github.com/colevanderswands/js-nm)  
-  * vars & assignment 
-  * block scope & control flow 
-  * expanding expressions
-  * functions
 * :white_check_mark: [programming](https://github.com/colevanderswands/programming)  
 * mon 
   * js nm: vars & assignment
