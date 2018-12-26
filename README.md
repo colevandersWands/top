@@ -28,7 +28,6 @@ week 1
 
 week 2 
 * :white_check_mark: [computation](https://github.com/colevanderswands/computation)  
-* :white_check_mark: [error handling](https://github.com/colevanderswands/error-handling)  
 * :white_check_mark: [other operators](https://github.com/colevanderswands/other-operators)  
 * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions)  
 * mon
@@ -38,7 +37,6 @@ week 2
   * comp: primitive operators
   * expansions: w/ all primitive operators
 * wed
-  * error handling
   * other operators
   * expansions: w/ other operators
 * thu
