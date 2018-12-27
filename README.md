@@ -47,11 +47,11 @@ week 3
 * tue
   * strat: algorithmic efficiency, refactoring
 * wed
-  * strat: recursion
-* thu
   * strat: conditionals
-* fri
+* thu
   * strat: iteration
+* fri
+  * strat: recursion
 
 week 4
 * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) 
