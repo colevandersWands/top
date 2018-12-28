@@ -45,9 +45,9 @@ week 3
 * mon
   * strat: roles of vars, chunking
 * tue
-  * strat: algorithmic efficiency, refactoring
+  * strat: algorithmic efficiency
 * wed
-  * strat: conditionals
+  * strat: refactoring, conditionals
 * thu
   * strat: recursion
 * fri
