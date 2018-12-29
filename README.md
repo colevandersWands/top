@@ -66,7 +66,7 @@ week 3
 week 4
 * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design) (update templates with new test utils & new logging step)
 * mon
-  * white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) : cover it quickly together, will be practiced all week
+  * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) : cover it quickly together, will be practiced all week
   * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): analyze
 * tue
   * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): remix
