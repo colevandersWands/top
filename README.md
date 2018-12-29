@@ -5,69 +5,85 @@ before class
 
 week 1
 * :x: [js nm](https://github.com/colevanderswands/js-nm)  
-* :white_check_mark: [programming](https://github.com/colevanderswands/programming)  
+* :x: [programming](https://github.com/colevanderswands/programming)
 * mon 
   * js nm: vars & assignment
-  * prog: understanding code & errors
+  * programming: 
+      * :white_check_mark: [understanding code](https://github.com/colevandersWands/understanding-code) 
+      * :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
+      * :white_check_mark: [errors](https://github.com/colevandersWands/errors)
 * tue
   * js nm: block scope & control flow
-  * prog: trace & log, trace & assert
+  * programming: 
+      * :white_check_mark: [trace & log](https://github.com/colevandersWands/trace-and-log)
+      * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert) 
 * wed
   * js nm: expanding expressions
-  * prog: expanding, behavior & implementation
+  * programming: 
+      * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding)
+      * :white_check_mark: [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
 * thu
   * js nm: es versions & browser support
-  * prog: code clarity
+  * programming: 
+      * :white_check_mark: [code clarity](https://github.com/colevandersWands/code-clarity)  
 * fri
   * js nm: functions
-  * prog: debugging, 3 layering
+  * programming: 
+      * :white_check_mark: [debugging](https://github.com/colevandersWands/debugging)  
+      * :white_check_mark: [3 layering](https://github.com/colevandersWands/3-layering)  
 
 week 2 
 * :white_check_mark: [computation](https://github.com/colevanderswands/computation)  
 * :white_check_mark: [other operators](https://github.com/colevanderswands/other-operators)  
 * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions)  
 * mon
-  * comp: sets & mappings
-  * expansions: w/ type conversions & comparisons
+  * computation: :white_check_mark: [sets & mappings](https://github.com/colevanderswands/sets-and-mappings)  
+  * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
 * tue
-  * comp: primitive operators
-  * expansions: w/ all primitive operators
+  * computation: :white_check_mark: [primitive operators](https://github.com/colevanderswands/primitive-operators)  
+  * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ all primitive operators
 * wed
-  * other operators
-  * expansions: w/ other operators
+  * :white_check_mark:  [other operators](https://github.com/colevanderswands/other-operators)  
+  * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ all operators
 * thu
-  * comp: state -> op -> state
+  * computation: :white_check_mark: [state -> op -> state](https://github.com/colevanderswands/state-operation-state)  
 * fri
-  * comp: meaningful computation
+  * comp: :white_check_mark: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  
 
 week 3
 * :x: [strategy](https://github.com/colevanderswands/strategy)  
 * mon
-  * strat: roles of vars, chunking
+  * strategy: 
+      * :x: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
+      * :white_check_mark: [chunking](https://github.com/colevanderswands/chunking)  
 * tue
-  * strat: algorithmic efficiency
+  * strategy: 
+      * :white_check_mark: [algorithmic efficiency](https://github.com/colevanderswands/algorithmic-efficiency) 
+      * :white_check_mark: [refactoring](https://github.com/colevanderswands/refactoring)  
 * wed
-  * strat: refactoring, conditionals
+  * strategy: 
+      * :x: conditionals
+      * :x: problem modeling
 * thu
-  * strat: recursion
+  * strategy: :white_check_mark: [recursion](https://github.com/colevandersWands/recursion)
 * fri
-  * strat: iteration
+  * strategy: :white_check_mark: [iteration](https://github.com/colevandersWands/iteration)
 
 week 4
 * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) 
-* :white_check_mark: [solution design](https://github.com/colevanderswands/solution-deisng) 
+* :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design) (update templates with new test utils & new logging step)
 * :white_check_mark: [if hemingway](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 * mon
-  * javascripting: cover it quickly together, will be practiced all week
-  * sol des: analyze
+  * white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) : cover it quickly together, will be practiced all week
+  * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): analyze
 * tue
-  * sol des: remix
+  * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): remix
 * wed
-  * sol des: work-it
+  * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): work-it
 * thu
-  * sol des: map-it
+  * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): map-it
 * fri
-    * if hemingway
+    * :white_check_mark: [if hemingway](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
        * a fun and light closing activity before moving onto dom & apps next week
        * we do a few pre-selected ones together in class. analyze & remix
        * they see how much they've learned in the last 4 weeks
