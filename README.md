@@ -4,8 +4,6 @@ before class
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
 
 week 1
-* :x: [js nm](https://github.com/colevanderswands/js-nm)  
-* :x: [programming](https://github.com/colevanderswands/programming)
 * mon 
   * js nm: vars & assignment
   * programming: 
@@ -32,10 +30,7 @@ week 1
       * :white_check_mark: [debugging](https://github.com/colevandersWands/debugging)  
       * :white_check_mark: [3 layering](https://github.com/colevandersWands/3-layering)  
 
-week 2 
-* :white_check_mark: [computation](https://github.com/colevanderswands/computation)  
-* :white_check_mark: [other operators](https://github.com/colevanderswands/other-operators)  
-* :white_check_mark: [expansions](https://github.com/colevanderswands/expansions)  
+week 2  
 * mon
   * computation: :white_check_mark: [sets & mappings](https://github.com/colevanderswands/sets-and-mappings)  
   * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
@@ -51,7 +46,6 @@ week 2
   * comp: :white_check_mark: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  
 
 week 3
-* :x: [strategy](https://github.com/colevanderswands/strategy)  
 * mon
   * strategy: 
       * :x: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
@@ -70,9 +64,7 @@ week 3
   * strategy: :white_check_mark: [iteration](https://github.com/colevandersWands/iteration)
 
 week 4
-* :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) 
 * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design) (update templates with new test utils & new logging step)
-* :white_check_mark: [if hemingway](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 * mon
   * white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting) : cover it quickly together, will be practiced all week
   * :white_check_mark: [solution design](https://github.com/colevanderswands/solution-design): analyze
