@@ -46,6 +46,8 @@ week 2
   * comp: :white_check_mark: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  
 
 week 3
+* The topics covered this week are intense.  each day can only do an overview, they will have to intentionally continue studying each topic independantly solution-design week.  
+* for conditionals, recursion & iteration, we will only be able to cover the first couple steps together in class. the rest will be available for independant study over the rest of the course and beyond  
 * mon
   * strategy: 
       * :x: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
