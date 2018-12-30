@@ -50,12 +50,12 @@ week 3
 * for conditionals, recursion & iteration, we will demonstrate the entire solution creation process (defined by the repo templates) and it will be up to them to practice the preceding exercises to master the creation process
 * mon
   * strategy: 
-      * :x: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
+      * :white_check_mark: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
+      * :white_check_mark: [factoring-in](https://github.com/colevanderswands/factoring-in)  
       * :white_check_mark: [chunking](https://github.com/colevanderswands/chunking)  
+      * :white_check_mark: [factoring-out](https://github.com/colevanderswands/factoring-out)  
 * tue
-  * strategy: 
-      * :white_check_mark: [algorithmic efficiency](https://github.com/colevanderswands/algorithmic-efficiency) 
-      * :white_check_mark: [refactoring](https://github.com/colevanderswands/refactoring)  
+  * strategy: :white_check_mark: [algorithmic efficiency](https://github.com/colevanderswands/algorithmic-efficiency) 
 * wed
   * strategy: :white_check_mark: [recursion](https://github.com/colevandersWands/recursion)
 * thu
