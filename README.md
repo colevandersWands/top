@@ -47,7 +47,7 @@ week 2
 
 week 3
 * The topics covered this week are intense.  each day can only do an overview, they will have to intentionally continue studying each topic independantly solution-design week.  
-* for conditionals, recursion & iteration, we will only be able to cover the first couple steps together in class. the rest will be available for independant study over the rest of the course and beyond  
+* for conditionals, recursion & iteration, we will demonstrate the entire solution creation process (defined by the repo templates) and it will be up to them to practice the preceding exercises to master the creation process
 * mon
   * strategy: 
       * :x: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
