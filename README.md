@@ -57,11 +57,9 @@ week 3
       * :white_check_mark: [algorithmic efficiency](https://github.com/colevanderswands/algorithmic-efficiency) 
       * :white_check_mark: [refactoring](https://github.com/colevanderswands/refactoring)  
 * wed
-  * strategy: 
-      * :x: conditionals
-      * :x: problem modeling
-* thu
   * strategy: :white_check_mark: [recursion](https://github.com/colevandersWands/recursion)
+* thu
+  * strategy: :x: [conditionals](https://github.com/colevanderswands/conditionals)  
 * fri
   * strategy: :white_check_mark: [iteration](https://github.com/colevandersWands/iteration)
 
