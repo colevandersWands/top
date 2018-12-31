@@ -2,6 +2,10 @@
 
 general references
 * [testing components](https://github.com/colevandersWands/testing-components)  
+* [effective learning](https://github.com/elewa-academy/effective-learning)  
+* [self assessment](https://github.com/elewa-academy/self-assessment)  
+* [js toolkit](https://github.com/elewa-academy/js-tool-kit)  
+* js reference
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
