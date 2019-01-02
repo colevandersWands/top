@@ -86,3 +86,5 @@ week 4
        * we do a few pre-selected ones together in class. analyze & remix
        * they see how much they've learned in the last 4 weeks
  
+week 5
+* [demo project](https://github.com/colevandersWands/project-week-5-example)  
