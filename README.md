@@ -39,10 +39,18 @@ week 1
 
 week 2  
 * mon
-  * computation: :white_check_mark: [sets & mappings](https://github.com/colevanderswands/sets-and-mappings)  
+  * computation: sets & mapping
+      * :white_check_mark: [set membership](https://github.com/colevandersWands/set-membership)  
+      * :white_check_mark: [mapping between sets](https://github.com/colevandersWands/mapping-between-sets)  
+      * :white_check_mark: [function composition](https://github.com/colevanderswands/function-composition)  
+      * :white_check_mark: [comparing values](https://github.com/colevanderswands/comparing-values)   
   * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
 * tue
-  * computation: :white_check_mark: [primitive operators](https://github.com/colevanderswands/primitive-operators)  
+  * computation: primitive operators  
+      * :white_check_mark: [operators within a type](https://github.com/colevanderswands/operators-within-a-type)  
+      * :white_check_mark: [logical operators](https://github.com/colevanderswands/logical-operators)  
+      * :white_check_mark: [implicit coercion](https://github.com/colevanderswands/implicit-coercion)  
+      * :white_check_mark: [in-place operators](https://github.com/colevanderswands/in-place-operators)  
   * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ all primitive operators
 * wed
   * :white_check_mark:  [other operators](https://github.com/colevanderswands/other-operators)  
