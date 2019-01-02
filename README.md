@@ -95,4 +95,4 @@ week 4
        * they see how much they've learned in the last 4 weeks
  
 week 5
-* [demo project](https://github.com/colevandersWands/project-week-5-example)  
+* [demo project](https://github.com/colevandersWands/wk-5-proj-concept)  
