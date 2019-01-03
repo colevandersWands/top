@@ -74,7 +74,7 @@ week 3
 * wed
   * strategy: :white_check_mark: [recursion](https://github.com/colevandersWands/recursion)
 * thu
-  * strategy: :x: [conditionals](https://github.com/colevanderswands/conditionals)  
+  * strategy: :white_check_mark: [conditionals](https://github.com/colevanderswands/conditionals)  
 * fri
   * strategy: :white_check_mark: [iteration](https://github.com/colevandersWands/iteration)
 
