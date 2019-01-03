@@ -12,27 +12,27 @@ before class
 
 week 1
 * mon 
-  * js nm: vars & assignment
+  * js nm: :x: vars & assignment
   * programming: 
       * :white_check_mark: [understanding code](https://github.com/colevandersWands/understanding-code) 
       * :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
       * :white_check_mark: [errors](https://github.com/colevandersWands/errors)
 * tue
-  * js nm: block scope & control flow
+  * js nm: :x: block scope & control flow
   * programming: 
       * :white_check_mark: [trace & log](https://github.com/colevandersWands/trace-and-log)
       * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert) 
 * wed
-  * js nm: expanding expressions
+  * js nm: :x: expanding expressions
   * programming: 
       * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding)
       * :white_check_mark: [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
 * thu
-  * js nm: es versions & browser support
+  * js nm: :x: es versions & browser support
   * programming: 
       * :white_check_mark: [code clarity](https://github.com/colevandersWands/code-clarity)  
 * fri
-  * js nm: functions
+  * js nm: :x: functions
   * programming: 
       * :white_check_mark: [debugging](https://github.com/colevandersWands/debugging)  
       * :white_check_mark: [3 layering](https://github.com/colevandersWands/3-layering)  
