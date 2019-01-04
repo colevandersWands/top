@@ -97,3 +97,7 @@ week 4
 week 5
 * from here on out there is less daily exercises and more weekly projects  
 * [demo project](https://github.com/colevandersWands/wk-5-proj-concept)  
+ 
+week 6 
+* [demo project](https://github.com/colevandersWands/wk-6-proj-concept) 
+
