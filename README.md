@@ -6,6 +6,7 @@ general references
 * [self assessment](https://github.com/elewa-academy/self-assessment)  
 * [js toolkit](https://github.com/elewa-academy/js-tool-kit)  
 * js reference
+* [course frameworks](https://github.com/colevandersWands/course-frameworks)  
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
