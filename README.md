@@ -101,3 +101,5 @@ week 5
 week 6 
 * [demo project](https://github.com/colevandersWands/wk-6-proj-concept) 
 
+week 7  
+* [demo project](https://github.com/colevandersWands/wk-7-proj-concept) (closure framework) 
