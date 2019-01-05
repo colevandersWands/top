@@ -69,6 +69,7 @@ week 3
       * :white_check_mark: [factoring-in](https://github.com/colevanderswands/factoring-in)  
       * :white_check_mark: [chunking](https://github.com/colevanderswands/chunking)  
       * :white_check_mark: [factoring-out](https://github.com/colevanderswands/factoring-out)  
+      * :white_check_mark: [diagnostic logging](https://github.com/colevandersWands/diagnostic-logging)
 * tue
   * strategy: :white_check_mark: [algorithmic efficiency](https://github.com/colevanderswands/algorithmic-efficiency) 
 * wed
