@@ -97,11 +97,32 @@ week 4
        * they see how much they've learned in the last 4 weeks
  
 week 5
+* Theme: apps = data + user interactions
 * from here on out there is less daily exercises and more weekly projects  
 * [demo project](https://github.com/colevandersWands/wk-5-proj-concept)  
  
 week 6 
+* Theme: DOM & UI/UX
 * [demo project](https://github.com/colevandersWands/wk-6-proj-concept) 
 
 week 7  
+* Theme: functional programming - functions closed with the data they need
 * [demo project](https://github.com/colevandersWands/wk-7-proj-concept) (closure framework) 
+
+week 8
+* Theme: OOP - data bundled with the interactions it needs
+* [comparadigms](https://github.com/colevandersWands/comparadigms) 
+
+week 9
+* Theme: prototypical inheritance
+
+week 10
+* Theme: frontend app frameworks, vdom, fp
+
+week 11
+* Theme: working in terminal
+
+week 12
+* Theme: async & final project
+
+
