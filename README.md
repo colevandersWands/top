@@ -46,7 +46,6 @@ week 2
       * :white_check_mark: [function composition](https://github.com/colevanderswands/function-composition)  
       * :white_check_mark: [comparing values](https://github.com/colevanderswands/comparing-values)   
   * :white_check_mark: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
-  * [css in console.logs](https://coderwall.com/p/fskzdw/colorful-console-log)  
 * tue
   * computation: primitive operators  
       * :white_check_mark: [operators within a type](https://github.com/colevanderswands/operators-within-a-type)  
