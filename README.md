@@ -11,6 +11,13 @@ general references
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
+* :x: working locally (assigned as a challenge in the precourse, covered explicitly in week 1)
+
+first four weeks:
+* javascript & html/css will be covered separately
+* JS will be the exercises listed below
+* html/css will be the rest of FCC, curated JS 30's, and a good video series
+    * we have to portion these out over the first four weeks
 
 week 1
 * mon 
@@ -37,7 +44,6 @@ week 1
   * js nm: :x: functions
   * programming: 
       * :white_check_mark: [debugging](https://github.com/colevandersWands/debugging)  
-      * :white_check_mark: [3 layering](https://github.com/colevandersWands/3-layering)  
 
 week 2  
 * mon
@@ -99,11 +105,13 @@ week 4
  
 week 5
 * Theme: apps = data + user interactions
+    * connecting html/css to JS using 3-layer handlers & event listeners
 * from here on out there is less daily exercises and more weekly projects  
+* :white_check_mark: [3 layering](https://github.com/colevandersWands/3-layering)  
 * [demo project](https://github.com/colevandersWands/wk-5-proj-concept)  
  
 week 6 
-* Theme: DOM & UI/UX
+* Theme: DOM, UI/UX & components
 * [demo project](https://github.com/colevandersWands/wk-6-proj-concept) 
 
 week 7  
