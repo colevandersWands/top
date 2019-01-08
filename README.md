@@ -11,7 +11,7 @@ general references
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
-* :x: working locally (assigned as a challenge in the precourse, covered explicitly in week 1)
+* :x: [working locally](https://github.com/colevandersWands/working-locally) (assigned as a challenge in the precourse, covered explicitly in week 1)
 
 first four weeks:
 * javascript & html/css will be covered separately
