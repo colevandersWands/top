@@ -4,7 +4,7 @@ general references
 * [testing components](https://github.com/colevandersWands/testing-components)  
 * [effective learning](https://github.com/elewa-academy/effective-learning)  
 * [self assessment](https://github.com/elewa-academy/self-assessment)  
-* [js toolkit](https://github.com/elewa-academy/js-tool-kit)  
+* [js toolkit](https://github.com/elewa-academy/js-tool-kit)   ([parsonizer](https://github.com/colevandersWands/parsonizer))  
 * js reference
 * mastry
 * [course frameworks](https://github.com/colevandersWands/course-frameworks)  
