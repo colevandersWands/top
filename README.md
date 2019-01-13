@@ -132,6 +132,7 @@ week 8
 week 9
 * theme: frontend frameworks
 * hyperapp
+* chill a bit and make cool things
 
 week 10
 * theme: async
