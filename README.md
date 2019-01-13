@@ -147,7 +147,8 @@ week 11
 
 week 12
 * final project (super-duper portfolio)
-* hyperapp, build scripts, transpiling, api-as-backend
+* hyperapp, build scripts, transpiling, api-as-backend (github's)
+* challenge: basic authenticating with github api
 
 
 
