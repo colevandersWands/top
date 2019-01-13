@@ -77,7 +77,8 @@ week 3
       * :white_check_mark: [factoring-in](https://github.com/colevanderswands/factoring-in)  
       * :white_check_mark: [chunking](https://github.com/colevanderswands/chunking)  
       * :white_check_mark: [factoring-out](https://github.com/colevanderswands/factoring-out)  
-      * :white_check_mark: [diagnostic logging](https://github.com/colevandersWands/diagnostic-logging)
+      * :white_check_mark: [diagnostic logging](https://github.com/colevandersWands/diagnostic-logging)  
+      * :x: auto-generating test cases  
 * tue
   * strategy: :white_check_mark: [algorithmic efficiency](https://github.com/colevanderswands/algorithmic-efficiency) 
 * wed
@@ -104,34 +105,50 @@ week 4
        * they see how much they've learned in the last 4 weeks
  
 week 5
-* Theme: apps = data + user interactions
-    * connecting html/css to JS using 3-layer handlers & event listeners
-* from here on out there is less daily exercises and more weekly projects  
-* :white_check_mark: [3 layering](https://github.com/colevandersWands/3-layering)  
-* [demo project](https://github.com/colevandersWands/wk-5-proj-concept)  
- 
-week 6 
-* Theme: DOM, UI/UX & components
-* [demo project](https://github.com/colevandersWands/wk-6-proj-concept) 
+* Theme: programs = data + pre-set manipulations
+* mechanisms of state: closure, free variables (context & binding)
+* 'drawers': different sources of value for variables within a function
+* programming paradigms
+* collecting state and functions into programs 
 
-week 7  
-* Theme: functional programming - functions closed with the data they need
-* [demo project](https://github.com/colevandersWands/wk-7-proj-concept) (closure framework) 
+week 6
+* theme: deeper into free variables, prototypal delegation, starter inheritance design patterns, deep js
+
+week 7
+* theme: apps = programs + user interaction
+* 3-layer handlers
+* error handling
+* event listeners
+* basic dom ui's
+* layers of logging: browser/event level, handler/user-interaction leve, app level
+* basics of frameworking: use the provided closure-based micro-framework in 3-layer handlers
 
 week 8
-* Theme: OOP - data bundled with the interactions it needs
-* [comparadigms](https://github.com/colevandersWands/comparadigms) 
+* theme: deep dom & using it
+* trees & traversals
+* intro to virtual dom
+* the dom in deeps
+* reusable ui components
 
 week 9
-* Theme: prototypical inheritance
+* theme: frontend frameworks
+* hyperapp
 
 week 10
-* Theme: frontend app frameworks, vdom, fp
+* theme: async
+* callbacks
+* event loupe
+* promises
+* apis
 
 week 11
-* Theme: working in terminal
+* theme: terminalling
+* cli's
 
 week 12
-* Theme: async & final project
+* final project (super-duper portfolio)
+* hyperapp, build scripts, transpiling, api-as-backend
+
+
 
 
