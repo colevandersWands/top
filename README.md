@@ -105,7 +105,7 @@ week 4
        * they see how much they've learned in the last 4 weeks
  
 week 5
-* Theme: programs = data + pre-set manipulations
+* Theme: programs = state + functions
 * mechanisms of state: closure, free variables (context & binding)
 * 'drawers': different sources of value for variables within a function
 * programming paradigms
