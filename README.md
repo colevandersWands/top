@@ -28,12 +28,12 @@ week 1
 * tue
   * js nm: :x: block scope & control flow
   * programming: 
+      * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding)
       * :white_check_mark: [trace & log](https://github.com/colevandersWands/trace-and-log)
       * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert) 
 * wed
   * js nm: :x: expanding expressions
   * programming: 
-      * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding)
       * :white_check_mark: [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
 * thu
   * js nm: :x: es versions & browser support
