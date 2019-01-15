@@ -10,6 +10,7 @@ general references
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
+* :x: non-coding js website - many parsons, maybe some tables, some simple step-through explanations/diagrams  
 
 first four weeks:
 * javascript & html/css will be covered separately
