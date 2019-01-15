@@ -22,7 +22,7 @@ week 1
 * mon 
   * js nm: :x: vars & assignment
   * programming: 
-      * :white_check_mark: [understanding code](https://github.com/colevandersWands/understanding-code) 
+      * :x: [understanding code](https://github.com/colevandersWands/understanding-code) 
       * :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
       * :white_check_mark: [errors](https://github.com/colevandersWands/errors)
 * tue
@@ -33,18 +33,18 @@ week 1
 * wed
   * js nm: :x: expanding expressions
   * programming: 
-      * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding)
-      * :white_check_mark: [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
+      * :x: [expanding](https://github.com/colevandersWands/expanding)
+      * :x: [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
 * thu
   * js nm: :x: es versions & browser support
   * programming: 
-      * :white_check_mark: [code clarity](https://github.com/colevandersWands/code-clarity)  
+      * :x: [code clarity](https://github.com/colevandersWands/code-clarity)  
   * working locally: 
-      * :white_check_mark: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
+      * :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
 * fri
   * js nm: :x: functions
   * programming: 
-      * :white_check_mark: [debugging](https://github.com/colevandersWands/debugging)  
+      * :x: [debugging](https://github.com/colevandersWands/debugging)  
 
 week 2  
 * mon
