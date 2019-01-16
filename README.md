@@ -33,9 +33,10 @@ week 1
 * wed
   * js nm: :x: expanding expressions
   * programming: 
-      * :x: [writing tests](https://github.com/colevandersWands/test-cases) (behavior)
+      * :x: [test cases](https://github.com/colevandersWands/test-cases) (behavior)
       * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding) (implementation)
       * :x: [behavior and implementation](https://github.com/colevandersWands/behavior-and-implementation)  
+      * :white_check_mark: [test coverage](https://github.com/colevandersWands/test-coverage) (challenge)  
 * thu
   * js nm: :x: es versions & browser support
   * programming: 
