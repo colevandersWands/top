@@ -33,8 +33,9 @@ week 1
 * wed
   * js nm: :x: expanding expressions
   * programming: 
-      * :x: [expanding](https://github.com/colevandersWands/expanding)
-      * :x: [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
+      * :x: [expanding](https://github.com/colevandersWands/expanding) (implementation)
+      * :x: [writing tests]() (behavior)
+      * :x: [behavior and implementation](https://github.com/colevandersWands/behavior-and-implementation)  
 * thu
   * js nm: :x: es versions & browser support
   * programming: 
