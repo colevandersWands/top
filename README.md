@@ -29,7 +29,8 @@ week 1
   * js nm: :x: block scope & control flow
   * programming: 
       * :white_check_mark: [trace & log](https://github.com/colevandersWands/trace-and-log)
-      * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert) 
+      * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert)  
+      * :x: logging execution path
 * wed
   * js nm: :x: expanding expressions
   * programming: 
