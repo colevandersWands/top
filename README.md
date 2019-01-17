@@ -35,7 +35,7 @@ week 1
 * wed
   * js nm: :x: expanding expressions
   * programming: 
-      * :x: console frameworks
+      * :white_check_mark: [console frameworks](https://github.com/colevandersWands/console-frameworks)
       * :x: [test cases](https://github.com/colevandersWands/test-cases) (behavior)
       * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding) (implementation)
       * :x: [behavior and implementation](https://github.com/colevandersWands/behavior-and-implementation)  
