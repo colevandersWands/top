@@ -10,6 +10,7 @@ general references
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
+* :x: [graffiti](https://repl.it/@colevandersWands/graffiti)  
 * :x: non-coding js website - many parsons, maybe some tables, some simple step-through explanations/diagrams  
 
 first four weeks:
