@@ -38,16 +38,18 @@ week 1
       * :white_check_mark: [expanding](https://github.com/colevandersWands/expanding) (implementation)
       * :x: [behavior and implementation](https://github.com/colevandersWands/behavior-and-implementation)  
       * :white_check_mark: [test coverage](https://github.com/colevandersWands/test-coverage) (challenge)  
-* thu
+* thu  
+  * js nm: :x: functions
+  * programming: 
+      * :x: [debugging](https://github.com/colevandersWands/debugging)
+* fri
   * js nm: :x: es versions & browser support
   * programming: 
       * :x: [code clarity](https://github.com/colevandersWands/code-clarity)  
+      * :x: [es6 katas](https://github.com/colevandersWands/es6-katas)  
   * working locally: 
       * :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
-* fri
-  * js nm: :x: functions
-  * programming: 
-      * :x: [debugging](https://github.com/colevandersWands/debugging)  
+  
 
 week 2  
 * mon
