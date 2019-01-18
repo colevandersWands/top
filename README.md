@@ -19,6 +19,8 @@ first four weeks:
 * html/css will be the rest of FCC, curated JS 30's, and a good video series
     * we have to portion these out over the first four weeks
 
+> on the next pass of weeks 1-4 we bring attention to language features (in 'your notes'?), and add a set of discussion questions for each repo
+
 week 1
 * mon 
   * js nm: :x: vars & assignment
