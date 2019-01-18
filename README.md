@@ -7,7 +7,7 @@ general references
 * [js toolkit](https://github.com/elewa-academy/js-tool-kit)   ([parsonizer](https://github.com/colevandersWands/parsonizer))  
 * js reference
 * mastry
-* [course frameworks](https://github.com/colevandersWands/course-frameworks)  
+* [convolution: a framework](https://github.com/colevandersWands/convolution)  
 
 before class 
 * :white_check_mark: [precourse](https://github.com/colevanderswands/precourse)  
