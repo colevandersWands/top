@@ -105,8 +105,8 @@ js nm  (drawing & diagramming)
 * other operators
     * :x:  [other operators](https://github.com/colevanderswands/other-operators)  
     * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all operators
-* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> op -> state)
-*:x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation) 
+* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> op -> state)  
+* :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation) 
 
 ### strategy
 * strategy-focused programming
