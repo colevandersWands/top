@@ -151,6 +151,12 @@ js nm  (drawing & diagramming)
 
 
 ### vdom
+* given two mapping & demapping functions:
+      * dom -> pojo's
+      * pojo's -> dom
+* learn about trees, algorithms, data structures 
+* all on the thread
+* see such abstract stuff in a practical context
 
 (here begins using a series of progressive frameworks to combine state & functions)
 
@@ -170,11 +176,9 @@ js nm  (drawing & diagramming)
 * basics of frameworking: use the provided closure-based micro-framework in 3-layer handlers
 * https://github.com/elewa-academy/Fundamentals/tree/master/12-user-empathy
 
-###  deep dom & using it
-* trees & traversals
-* intro to virtual dom
-* the dom in deeps
+###  using the dom
 * reusable ui components
+* vdom in action
 
 
 ### frontend frameworks
