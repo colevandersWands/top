@@ -142,6 +142,7 @@ js nm  (drawing & diagramming)
 * programming paradigms
 * collecting state and functions into programs 
 * deeper into free variables: prototypal delegation, starter inheritance design patterns, deep js
+* programmer's oath
 
 ### apps = programs + user interaction
 * 3-layer handlers
