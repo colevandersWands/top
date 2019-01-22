@@ -143,14 +143,14 @@ js nm  (drawing & diagramming)
 * promises
 * apis
 
-### vdom
-
 ### terminalling
 * reading lodash
 * cli's
 * cross-env development
 * build scripts
 
+
+### vdom
 
 (here begins using a series of progressive frameworks to combine state & functions)
 
