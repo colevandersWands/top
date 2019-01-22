@@ -122,10 +122,11 @@ js nm  (drawing & diagramming)
     * :x: [conditionals](https://github.com/colevanderswands/conditionals)  
     * :x: [iteration](https://github.com/colevandersWands/iteration)
 
-### :x: [solution design](https://github.com/colevanderswands/solution-design)
+### programming challenges
+* :x: [solution design](https://github.com/colevanderswands/solution-design)
 
 ### coding with style 
-    * :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
+* :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 
 ### pure functional programming
 
