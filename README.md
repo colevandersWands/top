@@ -141,7 +141,8 @@ js nm  (drawing & diagramming)
 * callbacks
 * event loupe
 * promises
-* apis
+* async strategy
+
 
 ### terminalling
 * reading lodash
