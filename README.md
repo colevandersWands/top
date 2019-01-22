@@ -93,7 +93,7 @@ js nm  (drawing & diagramming)
     * :x: [set membership](https://github.com/colevandersWands/set-membership)  
     * :x: [mapping between sets](https://github.com/colevandersWands/mapping-between-sets)  
     * :x: [function composition](https://github.com/colevanderswands/function-composition)  
-    * :x: [comparing values](https://github.com/colevanderswands/comparing-values
+    * :x: [comparing values](https://github.com/colevanderswands/comparing-values)
     * :x: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
 * primitive operators  
     * :x: [operators within a type](https://github.com/colevanderswands/operators-within-a-type)  
@@ -124,7 +124,8 @@ js nm  (drawing & diagramming)
 
 ### :x: [solution design](https://github.com/colevanderswands/solution-design)
 
-### :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
+### coding with style 
+    * :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 
 ### pure functional programming
 
