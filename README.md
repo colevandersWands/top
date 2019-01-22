@@ -135,6 +135,7 @@ js nm  (drawing & diagramming)
 * free variables with this & closure
 * inheritance & prototypes
 * js puzzles
+* [comparadigms](https://github.com/colevandersWands/comparadigms)  
 
 
 ### async
