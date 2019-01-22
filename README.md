@@ -137,6 +137,21 @@ js nm  (drawing & diagramming)
 * js puzzles
 
 
+### async
+* callbacks
+* event loupe
+* promises
+* apis
+
+### terminalling
+* reading lodash
+* cli's
+* cross-env development
+* build scripts
+
+### vdom
+
+
 (here begins using a series of progressive frameworks to combine state & functions)
 
 ###  programs = state + functions
@@ -165,18 +180,6 @@ js nm  (drawing & diagramming)
 ### frontend frameworks
 * hyperapp
 
-
-### async
-* callbacks
-* event loupe
-* promises
-* apis
-
-### terminalling
-* reading lodash
-* cli's
-* cross-env development
-* build scripts
 
 ### final project (super-duper portfolio)
 * hyperapp, build scripts, transpiling, api-as-backend (github's)
