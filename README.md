@@ -12,13 +12,13 @@ pre-stuffs
 * :x: non-coding js study website - many parsons, maybe some tables, some simple step-through explanations/diagrams 
 * :x: [graffiti](https://repl.it/@colevandersWands/graffiti)
 
-js nm  (drawing & diagramming)
-    * (introduced as relevant through-out 'using code')
-    * variables, assignment, hoisting, ref vs. value
-    * blocks & conditionals
-    * iteration
-    * larger single-line expressions
-    * functions
+js nm  (drawing & diagramming)  
+* (introduced as relevant through-out 'using code')
+* variables, assignment, hoisting, ref vs. value
+* blocks & conditionals
+* iteration
+* larger single-line expressions
+* functions
 
 > on the next pass through bring attention to language features (in 'your notes'?), and add a set of discussion questions for each repo
 
