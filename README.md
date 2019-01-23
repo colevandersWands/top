@@ -137,6 +137,7 @@ js nm  (drawing & diagramming)
 * js puzzles
 * [comparadigms](https://github.com/colevandersWands/comparadigms)  
 
+### [ooping](https://github.com/colevandersWands/ooping)
 
 ### async
 * callbacks
