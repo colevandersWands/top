@@ -106,7 +106,7 @@ js nm  (drawing & diagramming)
     * :x:  [other operators](https://github.com/colevanderswands/other-operators)  
     * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all operators
 * :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> op -> state)  
-* :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation) 
+* :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  (change 'map' to 'embed')
 
 ### strategy
 * strategy-focused programming
@@ -123,7 +123,7 @@ js nm  (drawing & diagramming)
     * :x: [iteration](https://github.com/colevandersWands/iteration)
 
 ### programming challenges
-* :x: [solution design](https://github.com/colevanderswands/solution-design)
+* :x: [solution design](https://github.com/colevanderswands/solution-design) (change 'map' to 'embed')
 
 ### coding with style 
 * :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
