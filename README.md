@@ -6,8 +6,7 @@ general references
 * [js toolkit](https://github.com/elewa-academy/js-tool-kit)   ([parsonizer](https://github.com/colevandersWands/parsonizer))  
 * js reference
 * [janke: the framework](https://github.com/colevandersWands/janke-framework)
-* [the big idea]
-(https://github.com/colevandersWands/the-big-idea)  
+* [the big idea](https://github.com/colevandersWands/the-big-idea)  
 
 pre-stuffs
 * :x: [precourse](https://github.com/colevanderswands/precourse) (js syntax, html/css, github)
