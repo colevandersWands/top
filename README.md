@@ -6,6 +6,8 @@ general references
 * [js toolkit](https://github.com/elewa-academy/js-tool-kit)   ([parsonizer](https://github.com/colevandersWands/parsonizer))  
 * js reference
 * [janke: the framework](https://github.com/colevandersWands/janke-framework)
+* [the big idea]
+(https://github.com/colevandersWands/the-big-idea)  
 
 pre-stuffs
 * :x: [precourse](https://github.com/colevanderswands/precourse) (js syntax, html/css, github)
@@ -86,7 +88,8 @@ js nm  (drawing & diagramming)
 * (context is the content. content is the content. dry. let it explain itself)
 * :x: [understanding code](https://github.com/colevandersWands/understanding-code) 
 * :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
-* consoliterate examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)
+* consoliterate examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
+* 'opening' to a page: [read script](https://github.com/colevandersWands/read/tree/master), [example](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html)
 
 ### computation
 * sets & mapping
