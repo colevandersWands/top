@@ -41,7 +41,7 @@ js nm  (drawing & diagramming)
         * objects
     * blocks. logging -> {_ln: n, block: label, name: value}
 * tracing execution
-    * :white_check_mark: [trace & log](https://github.com/colevandersWands/trace-and-log)
+    * :white_check_mark: [trace & log](https://github.com/janke-learning/trace-and-log)
     * :white_check_mark: [execution paths](https://github.com/colevandersWands/execution-paths)
     * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert)  
 * console frameworks
