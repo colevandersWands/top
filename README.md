@@ -33,6 +33,7 @@ js nm  (drawing & diagramming)
 * base language things
     * vars. logging -> {_ln: n, name: value, op: 'v1 + v2'}
     * primitives
+        * [bools by examp](https://github.com/colevandersWands/boolean-by-example) 
         * strings & operators
         * numbers & operators
         * booleans & operators
