@@ -36,7 +36,8 @@ js nm  (drawing & diagramming)
         * [bools by examp](https://github.com/colevandersWands/boolean-by-example) 
         * strings & operators
         * numbers & operators
-        * booleans & operators
+        * implicit coercions
+        * other operators?
     * reference types
         * arrays
         * objects
