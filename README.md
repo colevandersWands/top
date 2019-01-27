@@ -29,7 +29,7 @@ js nm  (drawing & diagramming)
 * one-liners
     * log - be descriptive
     * assert - be predictive
-    * :white_check_mark: [errors](https://github.com/colevandersWands/errors) 
+    * :white_check_mark: [errors](https://github.com/janke-learning/errors) 
 * base language things
     * vars. logging -> {_ln: n, name: value, op: 'v1 + v2'}
     * primitives
