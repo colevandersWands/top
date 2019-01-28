@@ -42,6 +42,22 @@ js nm  (drawing & diagramming)
         * arrays
         * objects
     * blocks. logging -> {_ln: n, block: label, name: value}
+* sets & mapping
+    * :x: [set membership](https://github.com/colevandersWands/set-membership)  
+    * :x: [mapping between sets](https://github.com/colevandersWands/mapping-between-sets)  
+    * :x: [function composition](https://github.com/colevanderswands/function-composition)  
+    * :x: [comparing values](https://github.com/colevanderswands/comparing-values)
+    * :x: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
+* primitive operators  
+    * :x: [operators within a type](https://github.com/colevanderswands/operators-within-a-type)  
+    * :x: [logical operators](https://github.com/colevanderswands/logical-operators)  
+    * :x: [implicit coercion](https://github.com/colevanderswands/implicit-coercion)  
+    * :x: [in-place operators](https://github.com/colevanderswands/in-place-operators)  
+    * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all primitive operators
+    * :x: auto-generating test cases  (simple enough at this stage, much harder later)
+* other operators
+    * :x:  [other operators](https://github.com/colevanderswands/other-operators)  
+    * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all operators
 * tracing execution
     * :white_check_mark: [trace & log](https://github.com/janke-learning/trace-and-log)
     * :white_check_mark: [execution paths](https://github.com/colevandersWands/execution-paths)
@@ -71,6 +87,10 @@ js nm  (drawing & diagramming)
     * :x: [debugging](https://github.com/colevandersWands/debugging)
 * creating exercises
     * :x: [simplify & exercisify this](https://github.com/elewa-academy/creating-exercises)
+    
+### computation
+* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> op -> state)  
+* :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  (change 'map' to 'embed')
 
 ### ES6 & native methods
 * es6
@@ -80,39 +100,6 @@ js nm  (drawing & diagramming)
     * other suggested 3rd party exercises, don't reinvent this one
 * :white_check_mark: [javascripting](https://github.com/colevanderswands/javascripting)
 
-### working locally
-* :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
-* github desktop (?)
-* vsc
-* chromdev workspaces
-
-### consoliterate programming
-* the rest of the course will be written like this, so learn how to do it
-* (context is the content. content is the content. dry. let it explain itself)
-* :x: [understanding code](https://github.com/colevandersWands/understanding-code) 
-* :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
-* consoliterate examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
-* 'opening' to a page: [read script](https://github.com/colevandersWands/read/tree/master), [example](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html)
-
-### computation
-* sets & mapping
-    * :x: [set membership](https://github.com/colevandersWands/set-membership)  
-    * :x: [mapping between sets](https://github.com/colevandersWands/mapping-between-sets)  
-    * :x: [function composition](https://github.com/colevanderswands/function-composition)  
-    * :x: [comparing values](https://github.com/colevanderswands/comparing-values)
-    * :x: [expansions](https://github.com/colevanderswands/expansions): w/ type conversions & comparisons
-* primitive operators  
-    * :x: [operators within a type](https://github.com/colevanderswands/operators-within-a-type)  
-    * :x: [logical operators](https://github.com/colevanderswands/logical-operators)  
-    * :x: [implicit coercion](https://github.com/colevanderswands/implicit-coercion)  
-    * :x: [in-place operators](https://github.com/colevanderswands/in-place-operators)  
-    * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all primitive operators
-    * :x: auto-generating test cases  (simple enough at this stage, much harder later)
-* other operators
-    * :x:  [other operators](https://github.com/colevanderswands/other-operators)  
-    * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all operators
-* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> op -> state)  
-* :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  (change 'map' to 'embed')
 
 ### strategy
 * strategy-focused programming
@@ -134,40 +121,25 @@ js nm  (drawing & diagramming)
 ### coding with style 
 * :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 
-### pure functional programming
-
-
 ### deep js
 * free variables with this & closure
 * inheritance & prototypes
 * js puzzles
 * [comparadigms](https://github.com/colevandersWands/comparadigms)  
 
-### [ooping](https://github.com/colevandersWands/ooping)
+### working locally
+* :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
+* github desktop (?)
+* vsc
+* chromdev workspaces
 
-### async
-* callbacks
-* event loupe
-* promises
-* async strategy
-
-
-### terminalling
-* reading lodash
-* cli's
-* cross-env development
-* build scripts
-
-
-### vdom
-* given two mapping & demapping functions:
-      * dom -> pojo's
-      * pojo's -> dom
-* learn about trees, algorithms, data structures 
-* all on the thread
-* see such abstract stuff in a practical context
-
-(here begins using a series of progressive frameworks to combine state & functions)
+### consoliterate programming
+* the rest of the course will be written like this, so learn how to do it
+* (context is the content. content is the content. dry. let it explain itself)
+* :x: [understanding code](https://github.com/colevandersWands/understanding-code) 
+* :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
+* consoliterate examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
+* 'opening' to a page: [read script](https://github.com/colevandersWands/read/tree/master), [example](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html)
 
 ###  programs = state + functions
 * mechanisms of state -> external (side-effects, context, pure/immutable) vs internal free variables (closure, binding?)
@@ -185,13 +157,41 @@ js nm  (drawing & diagramming)
 * basics of frameworking: use the provided closure-based micro-framework in 3-layer handlers
 * https://github.com/elewa-academy/Fundamentals/tree/master/12-user-empathy
 
+### pure functional programming
+
+### [ooping](https://github.com/colevandersWands/ooping)
+
+
 ###  using the dom
 * reusable ui components
 * vdom in action
 
+### vdom
+* given two mapping & demapping functions:
+      * dom -> pojo's
+      * pojo's -> dom
+* learn about trees, algorithms, data structures 
+* all on the thread
+* see such abstract stuff in a practical context
+
+(here begins using a series of progressive frameworks to combine state & functions)
+
 
 ### frontend frameworks
 * hyperapp
+
+### async
+* callbacks
+* event loupe
+* promises
+* async strategy
+
+
+### terminalling
+* reading lodash
+* cli's
+* cross-env development
+* build scripts
 
 
 ### final project (super-duper portfolio)
