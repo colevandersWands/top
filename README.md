@@ -139,8 +139,7 @@ js nm  (drawing & diagramming)
 ### deep js
 * free variables with this & closure
 * inheritance & prototypes
-* js puzzles
-* [comparadigms](https://github.com/colevandersWands/comparadigms)  
+* js puzzles 
 * [convolution](https://github.com/colevandersWands/convolution) and variants
 
 ### coding with style 
@@ -159,6 +158,13 @@ js nm  (drawing & diagramming)
 * consoliterate project examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
 * resource examples: [read script](https://github.com/colevandersWands/read/tree/master), [functions](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html), [booleans](https://github.com/colevandersWands/boolean-by-example)  
 * exercises examples: boolean algebra
+
+
+### programming paradigms
+* ways of understanding
+* pure functional programming - functionality bundled with data (loosely)
+* [ooping](https://github.com/colevandersWands/ooping) - data bundled with functionality (loosely)
+* [comparadigms](https://github.com/colevandersWands/comparadigms) 
 
 ---
 branching point: app development or data science
@@ -182,11 +188,6 @@ branching point: app development or data science
 * layers of logging: browser/event level, handler/user-interaction leve, app level
 * basics of frameworking: use the provided closure-based micro-framework in 3-layer handlers
 * https://github.com/elewa-academy/Fundamentals/tree/master/12-user-empathy
-
-### programming paradigms
-* ways of understanding
-* pure functional programming - functionality bundled with data (loosely)
-* [ooping](https://github.com/colevandersWands/ooping) - data bundled with functionality (loosely)
 
 
 ###  using the dom
