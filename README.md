@@ -24,6 +24,7 @@ non-coding js practice
 * [dots vs. brackets](https://github.com/elewa-academy/dots-vs-brackets) 
 * let vs. var: [just step-through](https://github.com/colevandersWands/let-var-step-through), [with extra exercises](https://github.com/colevandersWands/block-scope-let-var)  
 * [nested blocks](https://github.com/colevandersWands/nested-blocks)  
+* [example expression study](https://github.com/colevandersWands/an-expression-study)  
 
 
 js nm  (drawing & diagramming)  
