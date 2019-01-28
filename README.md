@@ -22,6 +22,9 @@ non-coding js practice
 * [reference vs. value](https://github.com/elewa-academy/reference-vs-value) 
 * [the value swap](https://github.com/elewa-academy/value-swap)
 * [dots vs. brackets](https://github.com/elewa-academy/dots-vs-brackets) 
+* let vs. var: [just step-through](https://github.com/colevandersWands/let-var-step-through), [with extra exercises](https://github.com/colevandersWands/block-scope-let-var)  
+* [nested blocks](https://github.com/colevandersWands/nested-blocks)  
+
 
 js nm  (drawing & diagramming)  
 * (introduced as relevant through-out 'using code')
