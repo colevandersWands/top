@@ -141,6 +141,7 @@ js nm  (drawing & diagramming)
 * inheritance & prototypes
 * js puzzles
 * [comparadigms](https://github.com/colevandersWands/comparadigms)  
+* [convolution](https://github.com/colevandersWands/convolution) and variants
 
 ### coding with style 
 * :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
@@ -182,9 +183,10 @@ branching point: app development or data science
 * basics of frameworking: use the provided closure-based micro-framework in 3-layer handlers
 * https://github.com/elewa-academy/Fundamentals/tree/master/12-user-empathy
 
-### pure functional programming
-
-### [ooping](https://github.com/colevandersWands/ooping)
+### programming paradigms
+* ways of understanding
+* pure functional programming - functionality bundled with data (loosely)
+* [ooping](https://github.com/colevandersWands/ooping) - data bundled with functionality (loosely)
 
 
 ###  using the dom
