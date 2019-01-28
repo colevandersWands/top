@@ -155,8 +155,9 @@ js nm  (drawing & diagramming)
 * (context is the content. content is the content. dry. let it explain itself)
 * :x: [understanding code](https://github.com/colevandersWands/understanding-code) 
 * :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
-* consoliterate examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
-* 'opening' to a page: [read script](https://github.com/colevandersWands/read/tree/master), [example](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html)
+* consoliterate project examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
+* resource examples: [read script](https://github.com/colevandersWands/read/tree/master), [functions](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html), [booleans](https://github.com/colevandersWands/boolean-by-example)  
+* exercises examples: boolean algebra
 
 ---
 branching point: app development or data science
