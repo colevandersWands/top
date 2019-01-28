@@ -30,6 +30,7 @@ js nm  (drawing & diagramming)
     * log - be descriptive
     * assert - be predictive
     * :white_check_mark: [errors](https://github.com/janke-learning/errors) 
+* :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
 * base language things
     * vars. logging -> {_ln: n, name: value, op: 'v1 + v2'}
     * primitives
@@ -118,8 +119,8 @@ js nm  (drawing & diagramming)
 ### programming challenges
 * :x: [solution design](https://github.com/colevanderswands/solution-design) (change 'map' to 'embed')
 
-### coding with style 
-* :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
+### problem space, solution space & embedding
+* applied computing challenges
 
 ### deep js
 * free variables with this & closure
@@ -127,8 +128,10 @@ js nm  (drawing & diagramming)
 * js puzzles
 * [comparadigms](https://github.com/colevandersWands/comparadigms)  
 
+### coding with style 
+* :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
+
 ### working locally
-* :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
 * github desktop (?)
 * vsc
 * chromdev workspaces
@@ -140,6 +143,12 @@ js nm  (drawing & diagramming)
 * :x: [rhetorics of code](https://github.com/elewa-academy/collaborative-development) 
 * consoliterate examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
 * 'opening' to a page: [read script](https://github.com/colevandersWands/read/tree/master), [example](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html)
+
+---
+branching point: app development or data science
+---
+
+(unsorted beyond here)
 
 ###  programs = state + functions
 * mechanisms of state -> external (side-effects, context, pure/immutable) vs internal free variables (closure, binding?)
