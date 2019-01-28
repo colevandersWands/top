@@ -5,15 +5,19 @@
 general references
 * [effective learning](https://github.com/elewa-academy/effective-learning)  
 * [self assessment](https://github.com/elewa-academy/self-assessment)  
-* [js toolkit](https://github.com/elewa-academy/js-tool-kit)   ([parsonizer](https://github.com/colevandersWands/parsonizer))  
+* [js toolkit](https://github.com/elewa-academy/js-tool-kit)   
 * js reference
 * [janke: the framework](https://github.com/colevandersWands/janke-framework)
 
 
-pre-stuffs
+prestuffs
 * :x: [precourse](https://github.com/colevanderswands/precourse) (js syntax, html/css, github)
-* :x: non-coding js study website - many parsons, maybe some tables, some simple step-through explanations/diagrams 
 * :x: [graffiti](https://repl.it/@colevandersWands/graffiti)
+
+non-coding js practice
+* [parsonizer](https://github.com/colevandersWands/parsonizer)
+* [scope & control parsons](https://colevanderswands.github.io/parsons-scope-control/)  
+* [variables & blocks parsons](https://colevanderswands.github.io/parsons-vars-blocks/)
 
 js nm  (drawing & diagramming)  
 * (introduced as relevant through-out 'using code')
