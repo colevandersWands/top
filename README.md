@@ -6,7 +6,7 @@ general references
 * [effective learning](https://github.com/elewa-academy/effective-learning)  
 * [self assessment](https://github.com/elewa-academy/self-assessment)  
 * [js toolkit](https://github.com/elewa-academy/js-tool-kit)   
-* js reference
+* [js reference](https://github.com/elewa-academy/js-fundamentals) (gut and adapt this)
 * [janke: the framework](https://github.com/colevandersWands/janke-framework)
 
 
@@ -18,6 +18,10 @@ non-coding js practice
 * [parsonizer](https://github.com/colevandersWands/parsonizer)
 * [scope & control parsons](https://colevanderswands.github.io/parsons-scope-control/)  
 * [variables & blocks parsons](https://colevanderswands.github.io/parsons-vars-blocks/)
+* [hoisting](https://github.com/elewa-academy/hoisting) 
+* [reference vs. value](https://github.com/elewa-academy/reference-vs-value) 
+* [the value swap](https://github.com/elewa-academy/value-swap)
+* [dots vs. brackets](https://github.com/elewa-academy/dots-vs-brackets) 
 
 js nm  (drawing & diagramming)  
 * (introduced as relevant through-out 'using code')
