@@ -121,6 +121,8 @@ js nm  (drawing & diagramming)
 
 ### problem space, solution space & embedding
 * applied computing challenges
+* data modeling
+* native data structures
 
 ### deep js
 * free variables with this & closure
