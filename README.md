@@ -7,7 +7,7 @@ general references
 * [self assessment](https://github.com/elewa-academy/self-assessment)  
 * [js toolkit](https://github.com/elewa-academy/js-tool-kit)   
 * [js reference](https://github.com/elewa-academy/js-fundamentals) (gut and adapt this)
-* [janke: the framework](https://github.com/colevandersWands/janke-framework)
+* [janke: the framework](https://github.com/janke-learning/janke-the-framework)
 
 
 prestuffs
