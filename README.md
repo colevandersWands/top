@@ -1,7 +1,5 @@
 ## top
 
-[lasdoinvwe](#open-source-----open-education)
-
 [the big idea](https://github.com/colevandersWands/the-big-idea)  
 
 general references
@@ -230,7 +228,7 @@ branching point: app development or data science
 
 
 
-# open source !== open education
+
 
 
 
