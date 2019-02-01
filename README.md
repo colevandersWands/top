@@ -150,7 +150,7 @@ js nm  (drawing & diagramming)
 * vsc
 * chromdev workspaces
 
-### consoliterate programming
+### consoliterate programming - (rewrite for firefox dev edition & scratchpad)
 * the rest of the course will be written like this, so learn how to do it
 * (context is the content. content is the content. dry. let it explain itself)
 * :x: [understanding code](https://github.com/colevandersWands/understanding-code) 
