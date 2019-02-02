@@ -1,4 +1,7 @@
+(change all to cc, a, s)
+
 ## top
+
 
 [the big idea](https://github.com/colevandersWands/the-big-idea)  
 
