@@ -45,7 +45,6 @@ js nm  (drawing & diagramming)
     * log - be descriptive
     * assert - be predictive
     * :white_check_mark: [errors](https://github.com/janke-learning/errors) 
-* :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)  
 * base language things
     * vars. logging -> {_ln: n, name: value, op: 'v1 + v2'}
     * primitives
@@ -150,9 +149,11 @@ js nm  (drawing & diagramming)
 * :x: [if hemingway wrote JS](https://github.com/colevanderswands/if-hemingway-wrote-javascript)  
 
 ### working locally
+* (switch to firefox dev?)
 * github desktop (?)
 * vsc
-* chromdev workspaces
+* chromdev workspaces 
+* :x: [chromedev puzzles](https://github.com/colevandersWands/chromedev-puzzles)   
 
 ### consoliterate programming - (rewrite for firefox dev edition & scratchpad)
 * the rest of the course will be written like this, so learn how to do it
@@ -162,6 +163,7 @@ js nm  (drawing & diagramming)
 * consoliterate project examples: [a first example](https://colevanderswands.github.io/wk-5-proj-concept/), [a second example](https://colevanderswands.github.io/wk-6-proj-concept/), [a last example](https://colevanderswands.github.io/wk-7-proj-concept/), [boolean algebra](https://colevanderswands.github.io/conditionals/06-boolean-algebra/index.html)  
 * resource examples: [read script](https://github.com/colevandersWands/read/tree/master), [functions](https://colevanderswands.github.io/the-big-idea/4-recursions-in-js/index.html), [booleans](https://github.com/colevandersWands/boolean-by-example)  
 * exercises examples: boolean algebra
+
 
 
 ### programming paradigms
