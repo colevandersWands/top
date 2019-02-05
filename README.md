@@ -105,7 +105,7 @@ js nm  (drawing & diagramming)
     * :x: [simplify & exercisify this](https://github.com/elewa-academy/creating-exercises)
     
 ### computation
-* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> op -> state)  
+* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> instruction -> operation -> state -> ...)  
 * :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  (change 'map' to 'embed')
 
 ### ES6 & native methods
