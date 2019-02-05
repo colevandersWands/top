@@ -58,6 +58,12 @@ js nm  (drawing & diagramming)
         * arrays
         * objects
     * blocks. logging -> {_ln: n, block: label, name: value}
+* computation
+   * :x: [programming languages are computating machines](https://github.com/colevanderswands/state-operation-state)  (state -> instruction -> operation -> state -> ...)  
+* tracing execution
+    * :white_check_mark: [trace & log](https://github.com/janke-learning/trace-and-log)
+    * :white_check_mark: [execution paths](https://github.com/colevandersWands/execution-paths)
+    * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert)  
 * sets & mapping
     * :x: [set membership](https://github.com/colevandersWands/set-membership)  
     * :x: [mapping between sets](https://github.com/colevandersWands/mapping-between-sets)  
@@ -74,10 +80,6 @@ js nm  (drawing & diagramming)
 * other operators
     * :x:  [other operators](https://github.com/colevanderswands/other-operators)  
     * :x: [expansions](https://github.com/colevanderswands/expansions): w/ all operators
-* tracing execution
-    * :white_check_mark: [trace & log](https://github.com/janke-learning/trace-and-log)
-    * :white_check_mark: [execution paths](https://github.com/colevandersWands/execution-paths)
-    * :white_check_mark: [trace & assert](https://github.com/colevandersWands/trace-and-assert)  
 * console frameworks
     * :white_check_mark: [console frameworks](https://github.com/colevandersWands/console-frameworks)
     * dynamic assert-log - build the whole log as a guess and assert it entry-by-entry with the provided console framework
@@ -104,9 +106,6 @@ js nm  (drawing & diagramming)
 * creating exercises
     * :x: [simplify & exercisify this](https://github.com/elewa-academy/creating-exercises)
     
-### computation
-* :x: [programming languages are computation machines](https://github.com/colevanderswands/state-operation-state)  (state -> instruction -> operation -> state -> ...)  
-* :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  (change 'map' to 'embed')
 
 ### ES6 & native methods
 * es6
@@ -126,10 +125,12 @@ js nm  (drawing & diagramming)
 * program analysis 
     * :x: [algorithmic efficiency & analysis](https://github.com/colevanderswands/algorithmic-efficiency)
     * (split this into a few concepts? and include complexity?)
-* applied strategy
+* strategies 
     * :x: [recursion](https://github.com/colevandersWands/recursion)
     * :x: [conditionals](https://github.com/colevanderswands/conditionals)  
     * :x: [iteration](https://github.com/colevandersWands/iteration)
+* applied computing
+    * :x: [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  (change 'map' to 'embed')
 
 ### programming challenges
 * :x: [solution design](https://github.com/colevanderswands/solution-design) (change 'map' to 'embed')
