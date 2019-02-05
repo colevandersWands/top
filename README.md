@@ -59,7 +59,7 @@ js nm  (drawing & diagramming)
         * objects
     * blocks. logging -> {_ln: n, block: label, name: value}
 * computation
-   * :x: [programming languages are computating machines](https://github.com/colevanderswands/state-operation-state)  (state -> instruction -> operation -> state -> ...)  
+   * :x: [programming languages are computating machines](https://github.com/colevanderswands/state-instruction-operation)  (state -> instruction -> operation -> state -> ...)  
 * tracing execution
     * :white_check_mark: [trace & log](https://github.com/janke-learning/trace-and-log)
     * :white_check_mark: [execution paths](https://github.com/colevandersWands/execution-paths)
