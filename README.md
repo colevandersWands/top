@@ -32,7 +32,7 @@ non-coding js practice
 
 
 js nm  (drawing & diagramming)  
-* (introduced as relevant through-out 'using code')
+* (structure introduction of language features around incremental nm)
 * variables, assignment, hoisting, ref vs. value
 * blocks & conditionals
 * iteration
