@@ -119,6 +119,7 @@ js nm  (drawing & diagramming)
 ### strategy
 * strategy-focused programming
     * :x: [roles of vars](https://github.com/colevanderswands/roles-of-variables)
+      * [from here](https://computinged.wordpress.com/2016/03/07/notional-machines-and-misconceptions-in-cs-developing-a-research-agenda-at-dagstuhl/): Geoffrey, 3 types of state problems - data, control, reference/indirection
     * :x: [factoring-in](https://github.com/colevanderswands/factoring-in)  
     * :x: [chunking](https://github.com/colevanderswands/chunking)  
     * :x: [factoring-out](https://github.com/colevanderswands/factoring-out)  
